@@ -1,15 +1,12 @@
 {
-  "name": "contributte/forms-multiplier",
+  "name": "solarismedia/forms-multiplier",
   "type": "library",
   "description": "Multiplier for nette forms",
   "keywords": [
-    "nette",
-    "contributte",
-    "forms",
-    "multiplier"
+
   ],
   "require": {
-    "php": ">=7.2",
+    "php": ">=8.0",
     "nette/forms": "^3.1.0"
   },
   "require-dev": {
